@@ -1,0 +1,1 @@
+# Boas-pr-ticas-com-DynamoDB
